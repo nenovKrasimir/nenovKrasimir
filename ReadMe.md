@@ -14,5 +14,5 @@
 
 - 📫 How to reach me **k.nenov96@abv.bg**
 
-- ⚡ Fun fact : I'm always hungry for new knowledge in the programing world!
-- ⚡ Fun fact : Sport is my second passion i life!
+- ⚡ Fun fact : I'm always hungry for new knowledge.
+- ⚡ Fun fact : Sport is my second passion in life.
