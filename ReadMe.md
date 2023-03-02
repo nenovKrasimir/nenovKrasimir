@@ -10,8 +10,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Python Fundamentals
+- 🌱 I’m currently learning Python Web
 
 - 📫 How to reach me **k.nenov96@abv.bg**
 
-- ⚡ Fun fact : I want to conquer the world!
+- ⚡ Fun fact : I'm always hungry for new knowledge in the programing world!
+- ⚡ Fun fact : Sport is my second passion i life!
