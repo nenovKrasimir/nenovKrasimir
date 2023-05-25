@@ -7,7 +7,7 @@
   <div>
     <p>
       🌱 I’m currently learning Python Web<br>
-      📫 How to reach me: k.nenov96@abv.bg<br>
+      📫 How to reach me: k.nenov09@gmail.com<br>
       ⚡ Fun fact: I'm always hungry for new knowledge.<br>
       ⚡ Fun fact: Sport is my second passion in life.
     </p>
