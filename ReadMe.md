@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Krasimir Nenov</h1>
 <h3 align="center">I'm a student at <a href="https://softuni.bg/">Software University:mortar_board:</a></h3>
 
-<div style="display: flex; align-items: flex-start;">
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-  <div>
+<div class="container">
+  <div class="content">
     <p>
       🌱 I’m currently learning Python Web<br>
       📫 How to reach me: k.nenov09@gmail.com<br>
       ⚡ Fun fact: I'm always hungry for new knowledge.<br>
       ⚡ Fun fact: Sport is my second passion in life.
     </p>
+  </div>
+  <div class="streak-container">
     <a href="https://streak-stats.demolab.com?user=nenovKrasimir&theme=transparent&date_format=M%20j%5B%2C%20Y%5D">
       <img src="https://streak-stats.demolab.com?user=nenovKrasimir&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </a>
   </div>
 </div>
+
+
 
 ## Experience and Interests
 
