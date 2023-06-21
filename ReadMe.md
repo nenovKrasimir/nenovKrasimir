@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krasimir Nenov</h1>
-<h3 align="center">I'm a student at <a href="https://softuni.bg/">Software University:mortar_board:</a></h3>
+<h3 align="center">Im a student at <a href="https://softuni.bg/">Software University:mortar_board:</a></h3>
 
 <div class="container">
   <div class="content">
