@@ -20,7 +20,7 @@
 
 ## Experience and Interests
 
-- :computer: I have a basic experience in building Flask REST APIs, and I am currently working on expanding my skills in Django.
+- :computer: I have a basic experience in building Flask REST APIs, and I am currently working on expanding my skills in Django Web.
 - :link: Here is a link to my own projects:<br>
   - [Flask REST API - SportCenter](https://github.com/nenovKrasimir/SportCenterProject)
 - :link: Here is a link to projects part of my education process
