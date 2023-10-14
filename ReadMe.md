@@ -35,7 +35,7 @@ I am open to new opportunities and collaborations in the field of web developmen
 ## Additional Information
 
 - :snake: I have a good understanding of Python OOP (Object-Oriented Programming).
-- :globe_with_meridians: I'm currently interested in learning more about web development and exploring different frameworks and technologies.
+- :globe_with_meridians: I'm currently interested in learning more about web development and exploring different frameworks and techologies. Looking forwars for colloborations
 
 
 
